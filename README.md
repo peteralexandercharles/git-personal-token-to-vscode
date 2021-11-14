@@ -33,6 +33,5 @@ replace TOKEN with your token USERNAME with username and REPOSITORYNAME with you
 answered Sep 30 at 18:18
 
 
-
 To create code blocks or other preformatted text, indent by four spaces or surround 
 [Source](https://stackoverflow.com/questions/66231282/how-to-add-github-personal-access-token-to-visual-studio-code)
